@@ -1,6 +1,6 @@
 # Awesome-Financial-General-Ledger-Accounting-Journal
 
-# Top Financial General Ledger & Accounting Journal Ecosystem
+## Top Financial General Ledger & Accounting Journal Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Double-Entry Bookkeeping, Journal Entries & Self-Hosted Ledger Engines*  
